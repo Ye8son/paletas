@@ -1,0 +1,68 @@
+
+
+
+
+
+
+.cuadro {
+    background-color: navy;
+    color: aqua;
+    padding: 55px;
+    text-align: center;
+    width: 55px;
+    border-radius: 15px;
+
+}
+
+.cuadro2 {
+    background-color: green;
+    color: rgb(8, 7, 7);
+    padding: 55px;
+    text-align: center;
+    width: 55px;
+    border-radius: 15px;
+
+}
+
+.cuadro3 {
+    background-color: brown;
+    color: aquamarine;
+    padding: 55px;
+    text-align: center;
+    width: 55px;
+    border-radius: 15px;
+
+}
+
+.cuadro4 {
+    background-color: darkgoldenrod;
+    color: black;
+    padding: 55px;
+    text-align: center;
+    width: 55px;
+    border-radius: 15px;
+}
+
+.cuadro5 {
+    background-color: orangered;
+    color: rgb(0, 0, 0);
+    padding: 55px;
+    text-align: center;
+    width: 55px;
+    border-radius: 15px;
+}
+
+.cuadro6 {
+    background-color: rgba(22, 22, 20, 0.767);
+    color: grey;
+    padding: 55px;
+    text-align: center;
+    width: 55px;
+    border-radius: 15px;
+}
+
+
+
+.principal {
+    display: flex;
+}
